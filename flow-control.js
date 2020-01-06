@@ -1,4 +1,3 @@
-var age = 17
 function basicTeenager(age) {
 
 
