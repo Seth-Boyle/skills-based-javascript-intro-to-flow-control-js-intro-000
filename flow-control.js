@@ -1,14 +1,7 @@
 var age = 17
 function basicTeenager(age) {
 
-switch (age) {
-  case 13 <= age && age <= 19:
-    console.log("You are a teenager!")
-    break;
-  default:
-  consol.log("You are not a teenager!")
 
-}
 }
 
 function teenager(age) {
