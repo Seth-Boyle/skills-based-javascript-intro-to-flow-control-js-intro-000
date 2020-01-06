@@ -5,9 +5,16 @@ function basicTeenager(age) {
   else {
     console.log("You are not a teenager!")
   }
-
-
 }
+
+
+
+
+
+
+
+
+
 
 function teenager(age) {
 
