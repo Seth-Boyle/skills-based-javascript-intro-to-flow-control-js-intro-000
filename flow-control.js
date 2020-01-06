@@ -6,6 +6,7 @@ switch (age) {
     console.log("You are a teenager!")
     break;
   default:
+  consol.log("You are not a teenager!")
 
 }
 }
