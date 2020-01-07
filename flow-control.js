@@ -31,8 +31,8 @@ function ageChecker(age) {
 
 }
 
-var age
-function switchAge(age) {
+
+var function switchAge(age) {
 case 13 :
 return "You area teenager"
 break;case 14 :
