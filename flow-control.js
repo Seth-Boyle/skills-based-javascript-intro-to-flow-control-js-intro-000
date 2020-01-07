@@ -1,4 +1,4 @@
-basicTeenager = function (age) {
+var basicTeenager = function (age) {
 if(age >= 13 && age <= 19) {
 return "You are a teenager!"
 }
@@ -32,7 +32,7 @@ age >= 13 && age <= 19 ? return "You are a teenager!" : return "You are not a te
 }
 
 
-var age
+
  function switchAge(age) {
 case 13:
  console.log("You are a teenager")
