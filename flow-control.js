@@ -32,7 +32,7 @@ function ageChecker(age) {
 }
 
 
-var 13< age <19
+var age
  function switchAge(age) {
 case 13:
 return "You are a teenager"
