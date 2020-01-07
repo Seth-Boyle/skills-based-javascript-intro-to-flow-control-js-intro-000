@@ -36,17 +36,23 @@ var age
  function switchAge(age) {
 case 13:
 return "You are a teenager"
-break;case 14 :
+break;
+case 14 :
 return "You are a teenager"
-break;case 15 :
+break;
+case 15 :
 return "You are a teenager"
-break;case 16 :
+break;
+case 16 :
 return "You are a teenager"
-break;case 17 :
+break;
+case 17 :
 return "You are a teenager"
-break;case 18 :
+break;
+case 18 :
 return "You are a teenager"
-break;case 19 :
+break;
+case 19 :
 return "You are a teenager"
 break;
 default "You have an age"
