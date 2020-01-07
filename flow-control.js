@@ -32,6 +32,21 @@ function ageChecker(age) {
 }
 
 function switchAge(age) {
-
+case 13 :
+return "You area teenager"
+break;case 14 :
+return "You area teenager"
+break;case 15 :
+return "You area teenager"
+break;case 16 :
+return "You area teenager"
+break;case 17 :
+return "You area teenager"
+break;case 18 :
+return "You area teenager"
+break;case 19 :
+return "You area teenager"
+break;
+default "You have an age"
 
 }
