@@ -33,7 +33,7 @@ function ageChecker(age) {
 
 
 var function switchAge(age) {
-case 13 :
+case 13:
 return "You are a teenager"
 break;case 14 :
 return "You are a teenager"
